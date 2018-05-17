@@ -1,0 +1,1 @@
+"# mfc-show-console" 
